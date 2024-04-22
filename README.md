@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Przemysław Danak</h1>
 <h3 align="center">I'm a third year student at Cracow University of Technology, interested in ML/AI</h3>
 
-
-- 🔭 I’m currently working on [songbook web application](https://github.com/przemekdan1/Songbook-with-framework)
+- 👋 I’m @przemekdan1
+  
+- 🔭 I’m currently working on [Songbook web app](https://github.com/przemekdan1/Songbook-with-framework)
 
 - 🌱 I’m currently learning **Spring and React**
 
 - 👯 Member of **AGH SolarBoat Team**
+
+- 🤸 My hobbies: trekking, cycling, dancing, motorsports
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/przemys%c5%82aw-danak-0406b0245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/przemys%c5%82aw-danak-0406b0245/" height="30" width="40" /></a>
