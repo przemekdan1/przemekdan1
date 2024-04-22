@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemysław Danak</h1>
-<h3 align="center">I'm a third year student at Cracow University of Technology 3rd student at Cracow, interested in ML/AI</h3>
+<h3 align="center">I'm a third year student at Cracow University of Technology, interested in ML/AI</h3>
 
 
 - 🔭 I’m currently working on [songbook web application](https://github.com/przemekdan1/Songbook-with-framework)
