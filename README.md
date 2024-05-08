@@ -21,4 +21,11 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=przemekdan1&label=Profile%20views&color=0e75b6&style=flat" alt="przemekdan1" /> </p>
+
+
+
+My [Codewars](https://www.codewars.com/users/pdana2908) rank:
+
+![CodeWars Badge](https://www.codewars.com/users/pdana2908/badges/large)
