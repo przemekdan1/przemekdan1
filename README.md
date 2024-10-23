@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemysław Danak</h1>
-<h3 align="center">I'm a third year student at Cracow University of Technology, interested in ML/AI</h3>
+<h3 align="center">I'm a fourth year student at Cracow University of Technology, interested in ML/AI</h3>
 
 - 👋 I’m @przemekdan1
   
