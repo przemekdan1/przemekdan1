@@ -3,9 +3,9 @@
 
 - 👋 I’m @przemekdan1
   
-- 🔭 I’m currently working on [Songbook web app](https://github.com/przemekdan1/Songbook-with-framework)
+- 🔭 I’m currently working at [Accevo](https://accevosystems.com/pl/)
 
-- 🌱 I’m currently learning **Spring and React**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 Member of **AGH SolarBoat Team**
 
