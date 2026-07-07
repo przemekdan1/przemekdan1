@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Przemysław Danak</h1>
-<h3 align="center">I'm a fourth year student at Cracow University of Technology, interested in ML/AI</h3>
+<h3 align="center">I'm a fifth year student at Cracow University of Technology, interested in ML/AI</h3>
 
 - 👋 I’m @przemekdan1
   
-- 🔭 I’m currently working on [Accevo](https://accevosystems.com/pl/)
+- 🔭 I’m currently working on [Hawiarska Koliba](https://hkoliba.agh.edu.pl/) site
 
 - 🌱 I’m currently learning **Data Science**
 
