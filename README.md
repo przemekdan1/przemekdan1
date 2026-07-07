@@ -3,7 +3,7 @@
 
 - 👋 I’m @przemekdan1
   
-- 🔭 I’m currently working at [Accevo](https://accevosystems.com/pl/)
+- 🔭 I’m currently working on [Accevo](https://accevosystems.com/pl/)
 
 - 🌱 I’m currently learning **Data Science**
 
